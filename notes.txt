@@ -1,0 +1,3 @@
+glob library -> list all the files
+files = glob("../../data/raw/MetaMotion/*.csv")
+all csv files from the folder
